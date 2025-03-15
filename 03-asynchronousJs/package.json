@@ -1,0 +1,14 @@
+{
+  "name": "03-asynchronousjs",
+  "version": "1.0.0",
+  "main": "build_promises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "superagent": "^10.2.0"
+  }
+}
