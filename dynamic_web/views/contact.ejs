@@ -1,0 +1,7 @@
+<%- include('partials/header', { title }) %>
+<h2>Contact Us</h2>
+<form method="POST" action="/contact">
+    <input type="text" name="name" placeholder="Your Name" required />
+    <button type="submit">Submit</button>
+</form>
+<%- include('partials/footer') %>

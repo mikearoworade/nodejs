@@ -8,6 +8,7 @@ const replaceTemplate = require('./modules/replaceTemplate')
 const tempOverview = fs.readFileSync(`${__dirname}/templates/template-overview.html`, 'utf8');
 const tempCard = fs.readFileSync(`${__dirname}/templates/template-card.html`, 'utf8');
 const tempProduct = fs.readFileSync(`${__dirname}/templates/template-product.html`, 'utf8');
+// console.log(tempProduct);
 
 const data = fs.readFileSync(`${__dirname}/dev-data/data.json`, 'utf-8');
 const dataObj = JSON.parse(data);
