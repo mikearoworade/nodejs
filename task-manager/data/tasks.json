@@ -1,0 +1,22 @@
+[
+  {
+    "id": "22a85c09-9a1b-4df5-9b40-d1a3396f0bec",
+    "title": "Complete project documentation",
+    "description": "Write comprehensive documentation for the task manager API",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2025-07-20",
+    "createdAt": "2025-07-16T03:21:24.328Z",
+    "updatedAt": "2025-07-16T03:21:24.329Z"
+  },
+  {
+    "id": "0b766412-da3e-42dc-aad9-015d2857210b",
+    "title": "Code review",
+    "description": "Review pull requests from team members",
+    "status": "in-progress",
+    "priority": "medium",
+    "dueDate": "2025-07-18",
+    "createdAt": "2025-07-16T03:21:24.329Z",
+    "updatedAt": "2025-07-16T03:21:24.329Z"
+  }
+]
